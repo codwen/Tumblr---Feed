@@ -1,3 +1,4 @@
+# Lab 1 -  *Tumblr - Feed*
 # Lab 2 - *Tumblr - Details Screen*
 
 **Tumblr - Details Screen** is a photo browsing app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
