@@ -31,7 +31,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![tumblr_feed](https://user-images.githubusercontent.com/40280397/46777110-625e0380-ccdc-11e8-94de-a02b9a21b895.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
