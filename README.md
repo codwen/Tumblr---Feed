@@ -1,6 +1,6 @@
-# Lab 1 - *Tumblr - Feed*
+# Lab 2 - *Tumblr - Details Screen*
 
-**Tumblr - Feed** is a photo browsing app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
+**Tumblr - Details Screen** is a photo browsing app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
 
 Time spent: **8** hours spent in total
 
