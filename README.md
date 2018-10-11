@@ -30,7 +30,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![tumblr_details](https://user-images.githubusercontent.com/40280397/46776608-507b6100-ccda-11e8-9f28-b4c211cc0022.gif)' />
+![tumblr_details](https://user-images.githubusercontent.com/40280397/46776608-507b6100-ccda-11e8-9f28-b4c211cc0022.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
